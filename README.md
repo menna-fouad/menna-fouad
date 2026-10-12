@@ -12,7 +12,6 @@
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge) ![Vivado](https://img.shields.io/badge/vivado-blue?style=for-the-badge&logo=xilinx&logoColor=white) ![Yosys](https://img.shields.io/badge/yosys-red?style=for-the-badge) ![Icarus Verilog](https://img.shields.io/badge/iverilog-orange?style=for-the-badge) ![Verilator](https://img.shields.io/badge/verilator-navy?style=for-the-badge) ![GTKWave](https://img.shields.io/badge/gtkwave-green?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=menna-fouad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=menna-fouad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=menna-fouad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
